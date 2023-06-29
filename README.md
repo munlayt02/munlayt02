@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @munlayt02
-- 👀 I’m interested in you
-- 🌱 I’m currently learning web developmentt
-- 💞️ I’m looking to collaborate on hmm...
-- 📫 Take care everyone!
+- 👀 I’m interested in you yiiee
+- 🌱 I’m currently 1st year college BSIT
+- 💞️ I’m looking to collaborate on anything
+- 📫 You can contact me via Email: <a href="#">armeaczijei29@gmail.com</a>
+  
+- Take care everyone!
 
 <!---
 munlayt02/munlayt02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
