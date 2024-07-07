@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @munlayt02
-- 👀 I’m interested in you yiiee
-- 🌱 I’m currently 1st year college BSIT
+- 🌱 I’m currently 2nd year college BSIT
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can contact me via Email: <a href="#">armeaczijei29@gmail.com</a>
   
